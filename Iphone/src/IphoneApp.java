@@ -10,5 +10,9 @@ public class IphoneApp {
         iphone17.exibirPagina();
         iphone17.adicionarNovaAba();
         iphone17.atalizarPagina();
+
+        iphone17.tocar();
+        iphone17.pausar();
+        iphone17.selecionarMusica();
     }
 }
